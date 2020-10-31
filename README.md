@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm PhenoM4n4n</h1>
 <h3 align="center">A python developer and student</h3>
 
-- I’m currently working on my Discord bot, [Noumenon](https://discordapp.com/oauth2/authorize?client_id=634866217764651009&scope=bot&permissions=2080894207)
+- I’m currently working on my Discord bot [Noumenon](https://discordapp.com/oauth2/authorize?client_id=634866217764651009&scope=bot&permissions=2080894207)
 
-- I also publicly maintain my cogs for Red, Discord Bot at [Phen Cogs](https://github.com/phenom4n4n/phen-cogs)
+- I also publicly maintain my cogs for Red Discord Bot known as [Phen Cogs](https://github.com/phenom4n4n/phen-cogs)
 
-- In my free time I tune my themes for Powercord, including the popular [Blurple Replacer](https://github.com/phenom4n4n/blurple-replacer)
+- In my free time I tune my themes for Powercord including the popular [Blurple Replacer](https://github.com/phenom4n4n/blurple-replacer)
 
 
 <h3 align="left">Languages and Tools:</h3>
