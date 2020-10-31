@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello there, I'm PhenoM4n4n</h1>
+<h3 align="center">A python developer and student</h3>
 
-<!--
-**phenom4n4n/phenom4n4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on my Discord bot, [Noumenon](https://discordapp.com/oauth2/authorize?client_id=634866217764651009&scope=bot&permissions=2080894207)
 
-Here are some ideas to get you started:
+- I also publicly maintain my cogs for Red, Discord Bot at [Phen Cogs](https://github.com/phenom4n4n/phen-cogs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- In my free time I tune my themes for Powercord, including the popular [Blurple Replacer](https://github.com/phenom4n4n/blurple-replacer)
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phenom4n4n&show_icons=true&locale=en&theme=dark" alt="phenom4n4n" /></p>
