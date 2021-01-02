@@ -11,4 +11,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=phenom4n4n)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phenom4n4n&show_icons=true&locale=en&theme=dark" alt="phenom4n4n" /></p>
