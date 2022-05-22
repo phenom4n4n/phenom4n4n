@@ -11,8 +11,6 @@
 
   - [amari.py](https://github.com/TheF1ng3r/amari.py) - an asynchronous wrapper for the AmariBot API
 
-  - [Red-Interactions](https://github.com/phenom4n4n/red-interactions) - a module that adds Discord Interaction support (such as slash commands and buttons) to [Red, Discord Bot](https://github.com/Cog-Creators/Red-DiscordBot)
-
 - In my free time I tune my themes for Powercord including the popular [Blurple Replacer](https://github.com/phenom4n4n/blurple-replacer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phenom4n4n)
