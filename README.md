@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm PhenoM4n4n</h1>
 <h3 align="center">A python developer and student</h3>
 
-- My main project is [Noumenon](https://discordapp.com/oauth2/authorize?client_id=634866217764651009&permissions=2080894207&scope=bot%20applications.commands), an efficient Discord utility bot in more than 13,000 servers.
+- My main project is [Noumenon](https://discordapp.com/oauth2/authorize?client_id=634866217764651009&permissions=2080894207&scope=bot%20applications.commands), an efficient Discord utility bot in more than 16,500 servers.
 
 - I support open-source software and maintain several public projects, including:
 
